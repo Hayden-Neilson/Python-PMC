@@ -28,3 +28,10 @@ x = 8
 
 # username = "Python3"
 # print(username.lower())
+
+# Examples of a dictionary
+# # day_temperatures = {
+#     "morning" : 10.06,
+#     "noon" : 20.4,
+#     "evening" : 13.7
+# }
