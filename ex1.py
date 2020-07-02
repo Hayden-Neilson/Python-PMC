@@ -35,3 +35,6 @@ x = 8
 #     "noon" : 20.4,
 #     "evening" : 13.7
 # }
+
+# variable with tuple inside
+# color_codes = ((1, 2,3), (5,6,7), (123,135,158))
