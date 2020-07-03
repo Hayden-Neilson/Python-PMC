@@ -38,3 +38,9 @@ x = 8
 
 # variable with tuple inside
 # color_codes = ((1, 2,3), (5,6,7), (123,135,158))
+# 
+
+# complex dict with tuples 
+
+# day_temperatures = {'morning' : (7.9, 9.0, 12.5), "noon" : (34.5, 67.9, 3.9), 'evening' : (12.8, 27.12, 35.8) 
+    # }
