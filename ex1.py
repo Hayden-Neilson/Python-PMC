@@ -44,3 +44,8 @@ x = 8
 
 # day_temperatures = {'morning' : (7.9, 9.0, 12.5), "noon" : (34.5, 67.9, 3.9), 'evening' : (12.8, 27.12, 35.8) 
     # }
+
+# appending info to another list
+# seconds = [1.2323442655, 1.4534345567, 1.023458894]
+# current = 1.10001399445
+# seconds.append(current)
