@@ -70,3 +70,8 @@ x = 8
 # seconds.remove(1.4534345567) 
 # seconds.remove (1.023458894)
 # seconds.remove(1.10001399445)
+
+# slicing
+
+# letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+# print(letters[1:4])
