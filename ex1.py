@@ -60,3 +60,8 @@ x = 8
 # workdays = ["Mon", "Tue", "Wed", "Thu", "Fri"]
 # weekend = ["Sat", "Sun"]
 # workdays.append(weekend[0])
+
+# remove method 
+
+# seconds = [1.2323442655, 1.4534345567, 1.023458894, 1.10001399445]
+# seconds.remove(1.4534345567)
