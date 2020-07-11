@@ -80,3 +80,7 @@ x = 8
 
 # def lengther(lst):
 #     return len(lst)
+
+# area of a square
+# def foo(a):
+#     return a * a
