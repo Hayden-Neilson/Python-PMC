@@ -84,3 +84,8 @@ x = 8
 # area of a square
 # def foo(a):
 #     return a * a
+
+# oz to militers
+
+# def sick(oz):
+#     return oz * 29.57353
