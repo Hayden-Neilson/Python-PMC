@@ -89,3 +89,8 @@ x = 8
 
 # def sick(oz):
 #     return oz * 29.57353
+
+
+# print or return
+
+# one is used for simple things like printing values and the other is for executing a function 
