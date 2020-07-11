@@ -75,3 +75,8 @@ x = 8
 
 # letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
 # print(letters[1:4])
+
+# length function
+
+# def lengther(lst):
+#     return len(lst)
