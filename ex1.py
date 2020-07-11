@@ -95,4 +95,4 @@ x = 8
 
 # one is used for simple things like printing values and the other is for executing a function 
 
-# review of conditionals if , and, or.7/11/2020
+# review of conditionals if, else, and, or. 7/11/2020
