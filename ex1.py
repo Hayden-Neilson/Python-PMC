@@ -96,3 +96,11 @@ x = 8
 # one is used for simple things like printing values and the other is for executing a function 
 
 # review of conditionals if, else, and, or. 7/11/2020
+
+
+# practice conditionals
+# def foo(password):
+#     if len(password) >= 8:
+#         return True
+#     else:
+#         return False
