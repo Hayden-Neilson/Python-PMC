@@ -104,3 +104,9 @@ x = 8
 #         return True
 #     else:
 #         return False
+
+# def foo(temperature):
+#     if temperature > 7:
+#         return "Warm"
+#     else:
+#         return "Cold"
