@@ -120,7 +120,7 @@ x = 8
 #         return "Cold"
 
 
-# summary of everything reviewed
+# summary of everything reviewed -7/17/20
 
 # Define a function:
 
