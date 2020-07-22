@@ -176,3 +176,15 @@ x = 8
 
 # type("abc") == str
 # type([1, 2, 3]) == lst
+
+
+# # def temp(temperature):
+#     if temperature > 25:
+#         return "Hot"
+#     elif 25 >= temperature >= 15:
+#         return "Warm"
+#     else:
+#         return "Cold"
+
+user_input = float(input("enter temp"))
+print(weather_condition(user_input))
