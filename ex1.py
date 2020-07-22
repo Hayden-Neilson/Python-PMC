@@ -186,5 +186,9 @@ x = 8
 #     else:
 #         return "Cold"
 
-user_input = float(input("enter temp"))
-print(weather_condition(user_input))
+# user_input = float(input("enter temp"))
+# print(weather_condition(user_input))
+
+# using string formatting with usr input
+# def foo(name):
+#     return "Hi %s" % name
