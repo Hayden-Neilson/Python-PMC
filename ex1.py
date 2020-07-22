@@ -192,3 +192,8 @@ x = 8
 # using string formatting with usr input
 # def foo(name):
 #     return "Hi %s" % name
+
+# capitlize the name using string formatting
+
+# def foo(name):
+#     return "Hi %s" % name.title()
