@@ -84,3 +84,8 @@
 
 # def zeros(lst):
 #     return [i if not isinstance(i, str) else 0 for i in lst]
+
+# float to sum
+
+# def mathhh(lst):
+#     return sum([float(i) for i in lst])
