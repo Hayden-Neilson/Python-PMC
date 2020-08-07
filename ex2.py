@@ -70,3 +70,8 @@
 # new_temos = []
 
 # new_temos = [temo / 10 for temo in temos if temo != 356]
+
+# checking for results with conditionals
+
+# def perri(lst):
+#     return [i for  i in lst if not isinstance(i, str)]
