@@ -64,3 +64,9 @@
 # new_temos = [temo / 10 for temo in temos]
 
 # print(new_temos)
+
+# temos = [223, 345, 621, 356 ]
+
+# new_temos = []
+
+# new_temos = [temo / 10 for temo in temos if temo != 356]
