@@ -75,3 +75,6 @@
 
 # def perri(lst):
 #     return [i for  i in lst if not isinstance(i, str)]
+
+# def pery(lst):
+    # return [i for i in lst if i > 0 
