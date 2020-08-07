@@ -79,3 +79,8 @@
 
 # def pery(lst):
     # return [i for i in lst if i > 0 
+
+# changing data in str from no data to 0
+
+# def zeros(lst):
+#     return [i if not isinstance(i, str) else 0 for i in lst]
