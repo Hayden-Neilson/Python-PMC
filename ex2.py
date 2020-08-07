@@ -73,6 +73,7 @@
 
 # checking for results with conditionals
 
+# lst = [64, 39, -39, -204]
 # def perri(lst):
 #     return [i for  i in lst if not isinstance(i, str)]
 
