@@ -48,3 +48,19 @@
 
 # while datetime.datetime.now() < datetime.datetime(2090, 8, 20, 19, 30, 20):
     # print("It's not yet 19:30:20 of 2090.8.20")
+
+# appending number to make a new array 
+
+# temos = [223, 345, 621, 356 ]
+
+# new_temos = []
+
+# for temo in temos:
+#     new_temos.append(temo /10)
+
+# print(new_temos)
+
+# # alt
+# new_temos = [temo / 10 for temo in temos]
+
+# print(new_temos)
