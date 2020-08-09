@@ -89,3 +89,8 @@
 
 # def mathhh(lst):
 #     return sum([float(i) for i in lst])
+
+# function with a multi params
+
+# def foo(s1, s2):
+#     return s1 + s2
