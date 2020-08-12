@@ -105,3 +105,10 @@
 # def mac(*args):
 #     args = [x.upper() for x in args]
 #     return sorted(args)
+
+
+# keyword args for arbitray stuff
+# # def find_sum(**kwargs):
+#     return sum(kwargs.values())
+
+# print(find_sum(x=4, y=3, z=2))
