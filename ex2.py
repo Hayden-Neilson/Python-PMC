@@ -99,3 +99,9 @@
 
 # def m(*args):
 #     return sum(args) / len(args)
+
+# soting method
+
+# def mac(*args):
+#     args = [x.upper() for x in args]
+#     return sorted(args)
