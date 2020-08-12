@@ -8,7 +8,7 @@
 
 # colors = [11, 34, 98, 43, 45, 54, 54]
 
-# for color in colors : 
+# for color in colors :
 #     if color  > 50:
 #         print(color)
 
@@ -25,7 +25,7 @@
 
 # colors = [11, 34.1, 98.2, 43, 45.1, 54, 54]
 
-# for color in colors: 
+# for color in colors:
 #     if isinstance(color, int):
 #         print(color)
 
@@ -47,9 +47,9 @@
 # ex of a while loop
 
 # while datetime.datetime.now() < datetime.datetime(2090, 8, 20, 19, 30, 20):
-    # print("It's not yet 19:30:20 of 2090.8.20")
+# print("It's not yet 19:30:20 of 2090.8.20")
 
-# appending number to make a new array 
+# appending number to make a new array
 
 # temos = [223, 345, 621, 356 ]
 
@@ -78,7 +78,7 @@
 #     return [i for  i in lst if not isinstance(i, str)]
 
 # def pery(lst):
-    # return [i for i in lst if i > 0 
+# return [i for i in lst if i > 0
 
 # changing data in str from no data to 0
 
@@ -94,3 +94,8 @@
 
 # def foo(s1, s2):
 #     return s1 + s2
+
+# getting the sum and the length
+
+# def m(*args):
+#     return sum(args) / len(args)
