@@ -112,3 +112,8 @@
 #     return sum(kwargs.values())
 
 # print(find_sum(x=4, y=3, z=2))
+
+# how to open a file with python
+# file = open("bear.txt")
+# content = file.read()
+# print(content)
