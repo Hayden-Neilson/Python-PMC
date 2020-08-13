@@ -117,3 +117,8 @@
 # file = open("bear.txt")
 # content = file.read()
 # print(content)
+
+# openin to get a set number of characters
+# myfile = open("bear.txt")
+# content = myfile.read()
+# print(content[:90])
