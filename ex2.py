@@ -122,3 +122,10 @@
 # myfile = open("bear.txt")
 # content = myfile.read()
 # print(content[:90])
+
+# using function to file process
+
+# def ct(character, filepath="bear.txt"):
+#     file = open(filepath)
+#     content = file.read()
+#     return(content.count(character))
