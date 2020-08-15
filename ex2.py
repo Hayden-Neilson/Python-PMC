@@ -129,3 +129,7 @@
 #     file = open(filepath)
 #     content = file.read()
 #     return(content.count(character))
+
+# with and making a new
+# with open("file.txt", "w") as file:
+#     file.write("snail")
