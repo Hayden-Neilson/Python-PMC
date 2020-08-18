@@ -133,3 +133,11 @@
 # with and making a new
 # with open("file.txt", "w") as file:
 #     file.write("snail")
+
+# using the with method
+
+# with open("bear.txt") as file:
+#     content = file.read()
+
+# with open("first.txt", "w") as file:
+#     file.write(content[:90])
