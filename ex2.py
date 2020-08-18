@@ -141,3 +141,11 @@
 
 # with open("first.txt", "w") as file:
 #     file.write(content[:90])
+
+# appending separate files
+
+# with open("bear1.txt") as file:
+#     content = file.read()
+
+# with open("bear2.txt", "a") as file:
+#     file.write(content)
