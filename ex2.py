@@ -158,3 +158,5 @@
 #     file.seek(0)
 #     file.write(content)
 #     file.write(content)
+
+# installed pandas
