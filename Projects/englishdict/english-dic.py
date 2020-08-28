@@ -10,7 +10,9 @@ def translate(word):
         return data(word)
     # if user entered "texas" this will check for "Texas" as well.
     elif word.title() in data:
-        return data[w.title()]
+        return data[word.title()]
+    elif word.upper() in data:  # in case user enters words like USA or NATO
+        return data[word.upper()]
     elif len(get_close_matches(word, data.keys())) > 0:
         yn = "Did you mean this instead? Enter Y if yes, or N if no" % get_close_matches(
             word, data.keys()[0])
