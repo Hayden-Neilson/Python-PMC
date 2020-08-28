@@ -22,7 +22,12 @@ def translate(word):
         return "the word is not in the dictionary. Please try another word!"
 
 
-# learned how to add a matcher for mispelled words
 word = input("Enter word: ")
 
-print(translate(word))
+output = translate(word)
+
+if type(output) == list:
+    for item in output:
+        print(item)
+    else:
+        print(item)
