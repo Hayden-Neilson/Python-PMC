@@ -10,3 +10,5 @@ print(int(2.5))
 print(str(a) + b)
 
 # difficult errors check good or ask a question
+#  dont ask generic questions
+# ask one that  includes code and error tracback
