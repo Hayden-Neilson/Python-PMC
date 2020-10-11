@@ -12,3 +12,8 @@ print(str(a) + b)
 # difficult errors check good or ask a question
 #  dont ask generic questions
 # ask one that  includes code and error tracback
+
+try:
+    print(a)
+except:
+    print("An exception occurred")
