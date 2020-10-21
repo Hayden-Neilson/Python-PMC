@@ -13,7 +13,7 @@ def create_table():
 def insert(item, quantity, price):
     conn = sqlite3.connect("lite.db")
     cur = conn.cursor()
-    conn.execute("INSERT INTO store VALUES ('Wine Glass', 8,10.5)")
+    conn.execute("INSERT INTO store VALUES ('Wine Glass', 8, 10.5)")
     conn.commit()
     conn.close()
 
@@ -26,4 +26,24 @@ def view():
     conn.close()
     return rows
 
-    print(view())
+
+def delete(item):
+    conn = sqlite3.connect("lite.db")
+    cur = conn.cursor()
+    conn.execute("DELETE FROM store WHERE item=?", (item,))
+    conn.commit()
+    conn.close()
+
+
+def update(quantity, price, item):
+    conn = sqlite3.connect("lite.db")
+    cur = conn.cursor()
+    conn.execute("UPDATE store SET quantity=?, price=? WHERE item=?", (
+        quantity, price, item,))
+    conn.commit()
+    conn.close()
+
+
+update(12, 6, "Water Glass")
+
+print(view())
