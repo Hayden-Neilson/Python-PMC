@@ -22,7 +22,7 @@ def insert(item,quantity,price):
               host = "localhost",
               port = "5432")
     cur=conn.cursor()
-    cur.execute("INSERT INTO store VALUES(%s, %s, %s,)",(item,quantity,price))
+    cur.execute("INSERT INTO store VALUES(%s, %s, %s)",(item,quantity,price))
     conn.commit()
     conn.close()
  
